@@ -9,6 +9,11 @@ Big data has revolutionized the way we do business. Analyzing information in rea
 
 ## 1 - Azure Event Hub: Overview
 
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-azure/blob/main/img/gcp-developer.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+
 ## 2 - Azure Event Hub: Architecture
 
 ## 3 - Azure Event Hub: Security
