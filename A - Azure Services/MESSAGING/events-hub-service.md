@@ -9,7 +9,7 @@ Big data has revolutionized the way we do business. Analyzing information in rea
 
 ## 1 - Azure Event Hub: Overview
 
-Eevens Hubs Ingests, Buffers, Sotres, Processes Data in real-Time. Azure Event Hubs are designed for big data ingestion from a different variety of sources such as social data, web apps, sensor data, weather data, IoT devices, etc.
+**Events Hubs** Ingests, Buffers, Stores, Processes Data in real-Time. Azure Event Hubs are designed for big data ingestion from a different variety of sources such as social data, web apps, sensor data, weather data, IoT devices, etc.
 - It is sure that we can receive events from a variety of sources, fast, and in order, and store events reliably and durably.
 - It also supports multiple consumers and consumer groups for quick and concurrent data processing.
 - We can choose to capture all incoming data in Azure Storage, or we can also decide to trigger Azure Functions in response to new events.
