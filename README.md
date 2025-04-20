@@ -5,4 +5,8 @@ An ongoing & curated collection of awesome software best practices and technique
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 
+
 ## `Table of Contents`
+- [GCP - Google Cloud Platform](#)
+- [GCP Landing Zone Best Practices](#)
+- [GCP — Cloud Security Best Practices for Enterprises](#)
